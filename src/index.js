@@ -1,3 +1,5 @@
 import { printHello } from '#Lib/hello.js';
 
-printHello();
+var t =5
+
+printHello()
